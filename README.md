@@ -42,7 +42,19 @@ The dataset comes from Kaggle’s [Superstore Dataset](https://www.kaggle.com/da
 ```
 
 ## 📈 Preview
-*(Add images or screenshots of 2–3 key charts here later — optional but eye-catching.)*
+
+Below are sample visuals from the analysis:
+
+**1. Top Ordered Sub-Categories by State and Category**  
+![Top Subcategories](<img width="1671" height="379" alt="Screenshot 2025-10-31 165329" src="https://github.com/user-attachments/assets/a86dfdcb-5475-4f03-9247-cee1de1ceb4f" />)
+
+**2. States with the Longest Shipping Time**  
+![Longest Shipping Time](<img width="842" height="655" alt="Screenshot 2025-10-31 165352" src="https://github.com/user-attachments/assets/86fda79b-f860-4afd-8614-6e1d6a25f52e" />)
+
+**3. Profit by Season (Positive vs. Negative Profit)**  
+![Profit by Season](<img width="1055" height="496" alt="Screenshot 2025-10-31 165415" src="https://github.com/user-attachments/assets/cfbc2359-25b9-4a7b-88f9-190fff4772e9" />)
+
+
 
 ## 🚀 Next Steps
 Future improvements will focus on:
